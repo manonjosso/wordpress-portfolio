@@ -1,0 +1,18 @@
+/*
+Theme Name: Hamilton Child
+Description: Hamilton Child de Manon Josso
+Author: Manon Josso
+Author URI: https://www.wpserveur.net
+Template: Hamilton
+Version: 0.1.0
+*/
+
+body{
+    font-family: 'Montserrat', 'Helvetica', sans-serif;
+}
+
+h2 .site-name{
+	font-size: 1.5em;
+	font-weight: 300;
+}
+
